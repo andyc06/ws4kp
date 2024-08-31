@@ -1,0 +1,5 @@
+services:
+  ws4kp:
+    build: .
+    ports:
+      - "1999:8080"
